@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi 👋, I'm Harshit
+
+# Hi 👋, I'm Harshit Sharma
 
 ## 📊 Aspiring Data Analyst
 
@@ -60,5 +60,4 @@ Python | SQL | Excel | Power BI | Git | GitHub
 
 ## 📫 Connect with Me
 
-LinkedIn:
-Email:harshitsharma33567@gmail.com
+### Email:harshitsharma33567@gmail.com
