@@ -24,7 +24,7 @@ I enjoy turning raw data into meaningful insights using SQL, Python, Excel, and 
 
 ## 📁 Featured Projects
 
-### 🛒 Blinkit Grocery Sales Analysis
+### 🛒 Grocery-Sales-Analysis
 - Cleaned and transformed retail sales data
 - SQL analysis for business insights
 - Interactive Power BI Dashboard
