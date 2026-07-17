@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**harshitsharma26-lab/harshitsharma26-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Harshit
 
-Here are some ideas to get you started:
+## 📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning raw data into meaningful insights using SQL, Python, Excel, and Power BI.
+
+🎯 Currently looking for Data Analyst opportunities.
+
+---
+
+## 🚀 Skills
+
+- SQL (MySQL)
+- Python (Pandas, NumPy, Matplotlib)
+- Microsoft Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+---
+
+## 📁 Featured Projects
+
+### 🛒 Blinkit Grocery Sales Analysis
+- Cleaned and transformed retail sales data
+- SQL analysis for business insights
+- Interactive Power BI Dashboard
+- Python EDA
+
+### 🏪 Superstore Sales Analysis
+- Sales & Profit Dashboard
+- Customer and Product Analysis
+- Regional Performance Analysis
+
+### 👨‍💼 HR Analytics
+- Employee Attrition Analysis
+- Department Performance
+- HR Dashboard
+
+### 🏥 Hospital Analysis
+- Patient Trends
+- Revenue Analysis
+- Hospital KPI Dashboard
+
+### ✈ Airline Passenger Analysis
+- Flight Delay Analysis
+- Passenger Trends
+- Route Performance
+
+---
+
+## 📈 Tools
+
+Python | SQL | Excel | Power BI | Git | GitHub
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn:
+Email:harshitsharma33567@gmail.com
