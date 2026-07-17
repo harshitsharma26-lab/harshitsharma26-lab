@@ -30,11 +30,6 @@ I enjoy turning raw data into meaningful insights using SQL, Python, Excel, and 
 - Interactive Power BI Dashboard
 - Python EDA
 
-### 🏪 Superstore Sales Analysis
-- Sales & Profit Dashboard
-- Customer and Product Analysis
-- Regional Performance Analysis
-
 ### 👨‍💼 HR Analytics
 - Employee Attrition Analysis
 - Department Performance
