@@ -2,11 +2,10 @@
 
 # Hi 👋, I'm Harshit Sharma
 
-## 📊 Aspiring Data Analyst
+## 📊 Data Analyst
 
 I enjoy turning raw data into meaningful insights using SQL, Python, Excel, and Power BI.
 
-🎯 Currently looking for Data Analyst opportunities.
 
 ---
 
