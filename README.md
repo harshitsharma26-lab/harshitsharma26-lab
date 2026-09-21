@@ -38,11 +38,21 @@ I enjoy turning raw data into meaningful insights using SQL, Python, Excel, and 
 - Patient Trends
 - Revenue Analysis
 - Hospital KPI Dashboard
+- 
 
-### ✈ Airline Passenger Analysis
-- Flight Delay Analysis
-- Passenger Trends
-- Route Performance
+### ✈️ AeroProfit — Airline Data Analytics
+
+* Analyzed airline revenue, profit, passenger, and operational data
+* Used SQL and Python for data cleaning and exploratory analysis
+* Built a **3-page interactive Power BI dashboard**
+* Created KPIs and visualizations to understand airline performance
+
+### 🛍️ Bazariq — Retail Sales Analytics
+
+* Analyzed retail sales and customer purchasing data
+* Used SQL for data analysis and business insights
+* Performed data cleaning and exploratory analysis using Python
+* Built an interactive Power BI dashboard to track sales, revenue, and product performance
 
 ---
 
