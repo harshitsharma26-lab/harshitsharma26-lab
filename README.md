@@ -1,67 +1,87 @@
-
-
 # Hi 👋, I'm Harshit Sharma
 
-## 📊 Data Analyst
+### 💻 Aspiring Software Developer | Tech Enthusiast 🚀
 
-I enjoy turning raw data into meaningful insights using SQL, Python, Excel, and Power BI.
-
+I'm passionate about programming, web development, and problem-solving. I enjoy building projects, learning new technologies, and improving my coding skills.
 
 ---
 
-## 🚀 Skills
+## 🚀 Skills & Technologies
 
-- SQL (MySQL)
-- Python (Pandas, NumPy, Matplotlib)
-- Microsoft Excel
-- Power BI
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+### 💻 Programming Languages
+
+* C
+* C++
+* Python
+* SQL
+
+### 🌐 Web Development
+
+* HTML5
+* CSS3
+* JavaScript
+
+### 📊 Data & Visualization Tools
+
+* Microsoft Power BI
+
+### 🛠️ Tools & Platforms
+
+* Git
+* GitHub
+* Visual Studio Code
 
 ---
 
 ## 📁 Featured Projects
 
-### 🛒 Grocery-Sales-Analysis
-- Cleaned and transformed retail sales data
-- SQL analysis for business insights
-- Interactive Power BI Dashboard
-- Python EDA
+### 🛒 Grocery Sales Analysis
+
+* Analyzed retail sales data using SQL and Python
+* Created visualizations to identify sales trends
+* Developed an interactive Power BI dashboard
 
 ### 👨‍💼 HR Analytics
-- Employee Attrition Analysis
-- Department Performance
-- HR Dashboard
+
+* Explored employee attrition and department performance
+* Analyzed workforce trends
+* Created an HR analytics dashboard
 
 ### 🏥 Hospital Analysis
-- Patient Trends
-- Revenue Analysis
-- Hospital KPI Dashboard
-- 
 
-### ✈️ AeroProfit — Airline Data Analytics
+* Analyzed patient trends and hospital revenue
+* Identified key performance indicators (KPIs)
+* Designed a hospital analytics dashboard
+
+### ✈️ AeroProfit — Airline Analytics
 
 * Analyzed airline revenue, profit, passenger, and operational data
-* Used SQL and Python for data cleaning and exploratory analysis
-* Built a **3-page interactive Power BI dashboard**
-* Created KPIs and visualizations to understand airline performance
+* Used SQL and Python for data analysis
+* Created a 3-page interactive Power BI dashboard
+* Visualized key metrics to understand airline performance
 
 ### 🛍️ Bazariq — Retail Sales Analytics
 
-* Analyzed retail sales and customer purchasing data
-* Used SQL for data analysis and business insights
+* Analyzed retail sales and customer purchasing patterns
+* Used SQL for business insights
 * Performed data cleaning and exploratory analysis using Python
-* Built an interactive Power BI dashboard to track sales, revenue, and product performance
+* Developed an interactive Power BI dashboard
 
 ---
 
-## 📈 Tools
+## 🎯 Currently Learning
 
-Python | SQL | Excel | Power BI | Git | GitHub
+* Data Structures and Algorithms
+* Advanced C++ Programming
+* Front-End Web Development
+* Database Management Systems
+* Building Real-World Projects
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-### Email:harshitsharma33567@gmail.com
+📧 **Email:** [harshitsharma33567@gmail.com](mailto:harshitsharma33567@gmail.com)
+
+---
+
